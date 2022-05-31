@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Merveilleux ethos of Exeter"
+title:  The <em>Merveilleux</em> ethos of Exeter
 date:   2022-05-24 00:17:59 +0200
-categories: jekyll update
+categories: critique
 ---
 
 
